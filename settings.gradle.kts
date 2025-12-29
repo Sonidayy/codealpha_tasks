@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "brainup"
+rootProject.name = "UnsaidEcho"
 include(":app")
  
